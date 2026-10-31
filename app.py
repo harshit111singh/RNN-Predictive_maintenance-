@@ -14,7 +14,7 @@ st.markdown("# Turbofan Engine - Remaining Useful Life Predictor")
 
 col1, col2, col3, col4 = st.columns(4)
 with col4:
-    st.link_button("by-Vikas Dubey", url="https://www.linkedin.com/in/vikas-dubey-27719831a/", type="tertiary")
+    st.link_button("by-Harshit Singh", url="https://www.linkedin.com/in/harshit-singh-85313b226/", type="tertiary")
 
 st.divider()
 st.markdown("## Trained on NASA Turbofan Jet Engine Data Set")
